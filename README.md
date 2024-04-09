@@ -1,7 +1,9 @@
 ```markdown
+![alt text](Host_a_WordPress_Website_on_AWS.png)
+
 # AWS WordPress Deployment Project
 ##Project Architecture
-![alt text](Host_a_WordPress_Website_on_AWS.png)
+
 
 ## Overview
 This project focuses on deploying a WordPress website on Amazon Web Services (AWS) infrastructure utilizing various AWS services and resources to ensure high availability, scalability, and fault tolerance.
