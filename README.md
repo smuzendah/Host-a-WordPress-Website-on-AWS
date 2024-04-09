@@ -1,5 +1,7 @@
 ```markdown
 # AWS WordPress Deployment Project
+##Project Architecture
+
 
 ## Overview
 This project focuses on deploying a WordPress website on Amazon Web Services (AWS) infrastructure utilizing various AWS services and resources to ensure high availability, scalability, and fault tolerance.
