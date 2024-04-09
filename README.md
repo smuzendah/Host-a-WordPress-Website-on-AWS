@@ -1,4 +1,5 @@
 # AWS WordPress Deployment Project
+![alt text]()
 
 This project aims to deploy a WordPress website on Amazon Web Services (AWS) infrastructure with high availability, scalability, and fault tolerance. Below is a detailed guide on setting up the project and deploying the WordPress website on AWS.
 
