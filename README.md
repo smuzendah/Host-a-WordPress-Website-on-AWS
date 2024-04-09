@@ -1,6 +1,6 @@
 ```markdown
 
-![alt text](Host_a_WordPress_Website_on_AWS.png)
+![alt text](/Host_a_WordPress_Website_on_AWS.png)
 
 # AWS WordPress Deployment Project
 
